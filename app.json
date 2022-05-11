@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "volopay",
-    "slug": "volopay",
+    "name": "Volopay Gif",
+    "slug": "volopay-gif",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.iamamitshrma008.volopaygif",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -28,6 +30,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
